@@ -20,13 +20,13 @@ public class Tester {
         String word = in.nextLine();//this is the original phrase
         System.out.println("Enter the key: ");
         int shift = ky.getKey();//this should get the key method to save the key
-        System.out.println("Would you like for the code to be encrypt or decrypt? ");
+        System.out.println("Enter E or D: ");
         String option = in.nextLine();
         switch (option){//this will check the user input if it is either one
-            case "encrypt":
+            case "E":
                 System.out.println(en.toEncrypt(word, shift));
                 break;
-            case "decrypt":
+            case "D":
                 System.out.println(dt.toDecrypt(word, shift));
                 break;
         }
