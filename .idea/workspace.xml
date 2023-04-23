@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="458d7f3a-4f3b-4a46-a956-967d2fafde96" name="Changes" comment="Encrypt and Decrypt need comments">
+    <list default="true" id="458d7f3a-4f3b-4a46-a956-967d2fafde96" name="Changes" comment="case was changed from &quot;encryption&quot; to E&#10;case decryption was changed to D">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cipher/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cipher/Decrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Decrypt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681494261135</updated>
       <workItem from="1681494263769" duration="12841000" />
-      <workItem from="1681999495314" duration="8646000" />
+      <workItem from="1681999495314" duration="9240000" />
+      <workItem from="1682265194632" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="Encrypt and Decrypt need comments">
       <created>1682221648233</created>
@@ -61,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682221648233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="if statement is replaced with switch case">
+      <created>1682261542208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682261542208</updated>
+    </task>
+    <task id="LOCAL-00003" summary="case was changed from &quot;encryption&quot; to E&#10;case decryption was changed to D">
+      <created>1682261834982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682261834982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Encrypt and Decrypt need comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encrypt and Decrypt need comments" />
+    <MESSAGE value="if statement is replaced with switch case" />
+    <MESSAGE value="case was changed from &quot;encryption&quot; to E&#10;case decryption was changed to D" />
+    <option name="LAST_COMMIT_MESSAGE" value="case was changed from &quot;encryption&quot; to E&#10;case decryption was changed to D" />
   </component>
 </project>

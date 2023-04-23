@@ -25,7 +25,7 @@ public class Decrypt {
         for (int i = 0; i < word.length(); i++){
             char c = word.charAt(i);
             if (Character.isLetter(c)){
-                c = (char) ((c + 'a' - key - 26) % 26 - 'a');
+                c = (char) ((c - 'a' - key + 26) % 26 + 'a');
             }
             encryptedMessage.append(c);
         }
