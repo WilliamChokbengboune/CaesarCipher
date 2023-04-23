@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="458d7f3a-4f3b-4a46-a956-967d2fafde96" name="Changes" comment="">
+    <list default="true" id="458d7f3a-4f3b-4a46-a956-967d2fafde96" name="Changes" comment="Encrypt and Decrypt need comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cipher/Decrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Decrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cipher/Encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Encrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cipher/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Key.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cipher/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +52,16 @@
       <option name="presentableId" value="Default" />
       <updated>1681494261135</updated>
       <workItem from="1681494263769" duration="12841000" />
-      <workItem from="1681999495314" duration="7523000" />
+      <workItem from="1681999495314" duration="8646000" />
     </task>
+    <task id="LOCAL-00001" summary="Encrypt and Decrypt need comments">
+      <created>1682221648233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682221648233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Encrypt and Decrypt need comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encrypt and Decrypt need comments" />
   </component>
 </project>
