@@ -30,5 +30,6 @@ public class Tester {
                 System.out.println(dt.toDecrypt(word, shift));
                 break;
         }
+        in.close();//this closes scanner to stop resource leak
     }
 }

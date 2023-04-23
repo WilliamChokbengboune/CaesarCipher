@@ -1,10 +1,15 @@
+/**
+ * Class: Tester
+ * Author: William Chokbengboune
+ * Date: 4/23/2023
+ * Version: 1.0
+ * Description: This class is meant to take the given string and change it based on the given key
+ */
 package Cipher;
 
 import java.util.Scanner;
-
 public class Key {
     private int shift;
-
     public Key(){
     }
     public Key(int shift){

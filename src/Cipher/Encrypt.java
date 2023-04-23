@@ -3,7 +3,7 @@
  * Author: William Chokbengboune
  * Date: 4/23/2023
  * Version: 1.0
- * Description: This class is meant to take the given string and change it based on the given key
+ * Description: This class takes the message and encrypts it based on the key
  */
 package Cipher;
 
@@ -31,11 +31,10 @@ public class Encrypt {
         word = word.toLowerCase();
         for (int i = 0; i < word.length(); i++){
             char c = word.charAt(i);
-
             if (Character.isLetter(c)){
                 c = (char) ((c - 'a' + key + 26) % 26 + 'a');
             }
-            encryptedMessage.append(c);
+            encryptedMessage.append(c);//this adds the encrypted letters to the message
         }
         return encryptedMessage.toString();
     }

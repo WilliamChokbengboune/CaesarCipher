@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="458d7f3a-4f3b-4a46-a956-967d2fafde96" name="Changes" comment="case was changed from &quot;encryption&quot; to E&#10;case decryption was changed to D">
+    <list default="true" id="458d7f3a-4f3b-4a46-a956-967d2fafde96" name="Changes" comment="decryption formula was changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cipher/Decrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Decrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cipher/Encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Encrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cipher/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cipher/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,9 @@
       <updated>1681494261135</updated>
       <workItem from="1681494263769" duration="12841000" />
       <workItem from="1681999495314" duration="9240000" />
-      <workItem from="1682265194632" duration="339000" />
+      <workItem from="1682265194632" duration="597000" />
+      <workItem from="1682273246564" duration="89000" />
+      <workItem from="1682273389408" duration="554000" />
     </task>
     <task id="LOCAL-00001" summary="Encrypt and Decrypt need comments">
       <created>1682221648233</created>
@@ -76,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682261834982</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="decryption formula was changed">
+      <created>1682265708578</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682265708578</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +109,7 @@
     <MESSAGE value="Encrypt and Decrypt need comments" />
     <MESSAGE value="if statement is replaced with switch case" />
     <MESSAGE value="case was changed from &quot;encryption&quot; to E&#10;case decryption was changed to D" />
-    <option name="LAST_COMMIT_MESSAGE" value="case was changed from &quot;encryption&quot; to E&#10;case decryption was changed to D" />
+    <MESSAGE value="decryption formula was changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="decryption formula was changed" />
   </component>
 </project>
